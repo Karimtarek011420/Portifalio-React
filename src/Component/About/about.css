@@ -1,0 +1,25 @@
+.icon {
+    position: relative;
+}
+.icon::after{
+    content: "";
+    position: absolute;
+    background-color: white;
+    height:5px;
+    width: 80px;
+    top:50%;
+    left:25px;  
+}
+.btn{
+    height:100vh;
+}
+.para {
+    display: flex;
+}
+@media screen and (max-width:600px) {
+    .para {
+        display: block;
+        margin-top: 10px;
+    }
+    
+}
