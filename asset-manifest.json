@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portifalio-React/static/css/main.1bc026db.css",
+    "main.js": "/Portifalio-React/static/js/main.3c755511.js",
+    "static/js/787.ec704a7a.chunk.js": "/Portifalio-React/static/js/787.ec704a7a.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Portifalio-React/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Portifalio-React/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/Portifalio-React/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Portifalio-React/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/Portifalio-React/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/Portifalio-React/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Portifalio-React/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Portifalio-React/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Portifalio-React/index.html",
+    "main.1bc026db.css.map": "/Portifalio-React/static/css/main.1bc026db.css.map",
+    "main.3c755511.js.map": "/Portifalio-React/static/js/main.3c755511.js.map",
+    "787.ec704a7a.chunk.js.map": "/Portifalio-React/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bc026db.css",
+    "static/js/main.3c755511.js"
+  ]
+}
